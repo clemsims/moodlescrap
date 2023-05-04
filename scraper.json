@@ -1,0 +1,6 @@
+{
+    "user": "your_username_or_email",
+    "pwd": "your_password",
+    "directory": "your_directory to save the files",
+    "baseurl": "your moodle url (ends with /)"
+}
